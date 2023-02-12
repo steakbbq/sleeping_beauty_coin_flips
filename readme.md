@@ -1,5 +1,8 @@
 # Sleeping Beauty Coin Flip Experiment
 
+![alt text](screenshot.png "Screenshot")
+
+
 ## Introduction
 I was inspired to create a python scrip that would calculate the percentages in the Veritasium video https://www.youtube.com/watch?v=XeSu9fBJ2sI
 
