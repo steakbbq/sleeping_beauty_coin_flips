@@ -58,6 +58,7 @@ def animate(i):
             update_random(tuesday_coin)
         else:
 
+            # heads cannot get a win on tuesday
             # even though heads came up on tuesday, random could still get a win
             update_random(tuesday_coin)
 
